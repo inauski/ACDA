@@ -1,0 +1,18 @@
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\bin\Debug\Tarea2-Consultar XML.exe
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\bin\Debug\Tarea2-Consultar XML.pdb
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\bin\Debug\Tarea2-Consultar XML.xml
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2_Consultar_XML.Form1.resources
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2_Consultar_XML.Resources.resources
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2-Consultar XML.vbproj.GenerateResource.Cache
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2-Consultar XML.exe
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2-Consultar XML.xml
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2-Consultar XML.pdb
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2-Consultar XML.exe
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2-Consultar XML.xml
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2-Consultar XML.pdb
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\bin\Debug\Tarea2-Consultar XML.exe
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\bin\Debug\Tarea2-Consultar XML.pdb
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\bin\Debug\Tarea2-Consultar XML.xml
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2_Consultar_XML.Form1.resources
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2_Consultar_XML.Resources.resources
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea2-Consultar XML\Tarea2-Consultar XML\Tarea2-Consultar XML\obj\x86\Debug\Tarea2-Consultar XML.vbproj.GenerateResource.Cache

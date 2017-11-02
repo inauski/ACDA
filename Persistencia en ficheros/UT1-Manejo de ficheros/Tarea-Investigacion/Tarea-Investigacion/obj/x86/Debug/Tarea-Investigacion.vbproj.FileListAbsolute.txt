@@ -1,0 +1,12 @@
+C:\Visual_17_18\Tarea-Investigacion\Tarea-Investigacion\bin\Debug\Tarea-Investigacion.exe
+C:\Visual_17_18\Tarea-Investigacion\Tarea-Investigacion\bin\Debug\Tarea-Investigacion.pdb
+C:\Visual_17_18\Tarea-Investigacion\Tarea-Investigacion\bin\Debug\Tarea-Investigacion.xml
+C:\Visual_17_18\Tarea-Investigacion\Tarea-Investigacion\obj\x86\Debug\Tarea_Investigacion.Form1.resources
+C:\Visual_17_18\Tarea-Investigacion\Tarea-Investigacion\obj\x86\Debug\Tarea_Investigacion.Resources.resources
+C:\Visual_17_18\Tarea-Investigacion\Tarea-Investigacion\obj\x86\Debug\Tarea-Investigacion.vbproj.GenerateResource.Cache
+C:\Visual_17_18\Tarea-Investigacion\Tarea-Investigacion\obj\x86\Debug\Tarea-Investigacion.exe
+C:\Visual_17_18\Tarea-Investigacion\Tarea-Investigacion\obj\x86\Debug\Tarea-Investigacion.xml
+C:\Visual_17_18\Tarea-Investigacion\Tarea-Investigacion\obj\x86\Debug\Tarea-Investigacion.pdb
+E:\Esc\ACDA\Persistencia en ficheros\Tarea-Investigacion\Tarea-Investigacion\obj\x86\Debug\Tarea-Investigacion.exe
+E:\Esc\ACDA\Persistencia en ficheros\Tarea-Investigacion\Tarea-Investigacion\obj\x86\Debug\Tarea-Investigacion.xml
+E:\Esc\ACDA\Persistencia en ficheros\Tarea-Investigacion\Tarea-Investigacion\obj\x86\Debug\Tarea-Investigacion.pdb

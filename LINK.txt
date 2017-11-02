@@ -1,0 +1,8 @@
+http://www.aulaclic.es/sql/t_2_2.htm
+
+https://msdn.microsoft.com/es-es/library/system.io.ioexception(v=vs.71).aspx (Excepciones)
+
+
+https://social.msdn.microsoft.com/Forums/es-ES/eeea4c49-676f-4b40-a8c3-137a19911622/mostrar-archivo-txt-en-un-textbox-multiline?forum=vbes
+
+https://books.google.es/books?id=FboYAAAAQBAJ&pg=PA339&lpg=PA339&dq=File.GetAttributes+(String)&source=bl&ots=ElF5lNHZxn&sig=jyPgaehe0AReRj4Ymj94ADB9wDA&hl=es&sa=X&ved=0ahUKEwiBo7vgpujWAhWnAsAKHaKFA7AQ6AEITzAH#v=onepage&q=File.GetAttributes%20(String)&f=false
