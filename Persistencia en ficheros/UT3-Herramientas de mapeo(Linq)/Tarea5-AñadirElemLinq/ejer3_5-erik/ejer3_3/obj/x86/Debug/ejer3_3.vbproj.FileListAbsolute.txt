@@ -1,0 +1,30 @@
+C:\Ejercicios\ACDA\ejer3_3\ejer3_3\bin\Debug\ejer3_3.exe
+C:\Ejercicios\ACDA\ejer3_3\ejer3_3\bin\Debug\ejer3_3.pdb
+C:\Ejercicios\ACDA\ejer3_3\ejer3_3\bin\Debug\ejer3_3.xml
+C:\Ejercicios\ACDA\ejer3_3\ejer3_3\obj\x86\Debug\ejer3_3.Form1.resources
+C:\Ejercicios\ACDA\ejer3_3\ejer3_3\obj\x86\Debug\ejer3_3.Resources.resources
+C:\Ejercicios\ACDA\ejer3_3\ejer3_3\obj\x86\Debug\ejer3_3.vbproj.GenerateResource.Cache
+C:\Ejercicios\ACDA\ejer3_3\ejer3_3\obj\x86\Debug\ejer3_3.exe
+C:\Ejercicios\ACDA\ejer3_3\ejer3_3\obj\x86\Debug\ejer3_3.xml
+C:\Ejercicios\ACDA\ejer3_3\ejer3_3\obj\x86\Debug\ejer3_3.pdb
+C:\Ejercicios\ACDA\ejer3_4\ejer3_3\obj\x86\Debug\ejer3_3.exe
+C:\Ejercicios\ACDA\ejer3_4\ejer3_3\obj\x86\Debug\ejer3_3.xml
+C:\Ejercicios\ACDA\ejer3_4\ejer3_3\obj\x86\Debug\ejer3_3.pdb
+C:\Ejercicios\ACDA\ejer3_4\ejer3_3\bin\Debug\ejer3_3.exe
+C:\Ejercicios\ACDA\ejer3_4\ejer3_3\bin\Debug\ejer3_3.pdb
+C:\Ejercicios\ACDA\ejer3_4\ejer3_3\bin\Debug\ejer3_3.xml
+C:\Ejercicios\ACDA\ejer3_4\ejer3_3\obj\x86\Debug\ejer3_3.Form1.resources
+C:\Ejercicios\ACDA\ejer3_4\ejer3_3\obj\x86\Debug\ejer3_3.Resources.resources
+C:\Ejercicios\ACDA\ejer3_4\ejer3_3\obj\x86\Debug\ejer3_3.vbproj.GenerateResource.Cache
+C:\Ejercicios\ACDA\ejer3_5\ejer3_3\obj\x86\Debug\ejer3_3.exe
+C:\Ejercicios\ACDA\ejer3_5\ejer3_3\obj\x86\Debug\ejer3_3.xml
+C:\Ejercicios\ACDA\ejer3_5\ejer3_3\obj\x86\Debug\ejer3_3.pdb
+C:\Ejercicios\ACDA\ejer3_5\ejer3_3\bin\Debug\ejer3_3.exe
+C:\Ejercicios\ACDA\ejer3_5\ejer3_3\bin\Debug\ejer3_3.pdb
+C:\Ejercicios\ACDA\ejer3_5\ejer3_3\bin\Debug\ejer3_3.xml
+C:\Ejercicios\ACDA\ejer3_5\ejer3_3\obj\x86\Debug\ejer3_3.Form1.resources
+C:\Ejercicios\ACDA\ejer3_5\ejer3_3\obj\x86\Debug\ejer3_3.Resources.resources
+C:\Ejercicios\ACDA\ejer3_5\ejer3_3\obj\x86\Debug\ejer3_3.vbproj.GenerateResource.Cache
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea5-AñadirElemLinq\ejer3_5-erik\ejer3_3\obj\x86\Debug\ejer3_3.exe
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea5-AñadirElemLinq\ejer3_5-erik\ejer3_3\obj\x86\Debug\ejer3_3.xml
+E:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea5-AñadirElemLinq\ejer3_5-erik\ejer3_3\obj\x86\Debug\ejer3_3.pdb
