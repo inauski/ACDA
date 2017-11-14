@@ -1,0 +1,9 @@
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\bin\Debug\Tarea7-CrearNuevaEstruc.exe
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\bin\Debug\Tarea7-CrearNuevaEstruc.pdb
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\bin\Debug\Tarea7-CrearNuevaEstruc.xml
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\obj\x86\Debug\Tarea7_CrearNuevaEstruc.Form1.resources
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\obj\x86\Debug\Tarea7_CrearNuevaEstruc.Resources.resources
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\obj\x86\Debug\Tarea7-CrearNuevaEstruc.vbproj.GenerateResource.Cache
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\obj\x86\Debug\Tarea7-CrearNuevaEstruc.exe
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\obj\x86\Debug\Tarea7-CrearNuevaEstruc.xml
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\Tarea7-CrearNuevaEstruc\obj\x86\Debug\Tarea7-CrearNuevaEstruc.pdb

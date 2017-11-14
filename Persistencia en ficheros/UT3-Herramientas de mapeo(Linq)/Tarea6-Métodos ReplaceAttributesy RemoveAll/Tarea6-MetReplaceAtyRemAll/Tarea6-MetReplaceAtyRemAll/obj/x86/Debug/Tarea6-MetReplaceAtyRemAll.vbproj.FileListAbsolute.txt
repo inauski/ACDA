@@ -1,0 +1,9 @@
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea6-Métodos ReplaceAttributesy RemoveAll\Tarea6-MetReplaceAtyRemAll\Tarea6-MetReplaceAtyRemAll\bin\Debug\Tarea6-MetReplaceAtyRemAll.exe
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea6-Métodos ReplaceAttributesy RemoveAll\Tarea6-MetReplaceAtyRemAll\Tarea6-MetReplaceAtyRemAll\bin\Debug\Tarea6-MetReplaceAtyRemAll.pdb
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea6-Métodos ReplaceAttributesy RemoveAll\Tarea6-MetReplaceAtyRemAll\Tarea6-MetReplaceAtyRemAll\bin\Debug\Tarea6-MetReplaceAtyRemAll.xml
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea6-Métodos ReplaceAttributesy RemoveAll\Tarea6-MetReplaceAtyRemAll\Tarea6-MetReplaceAtyRemAll\obj\x86\Debug\Tarea6_MetReplaceAtyRemAll.Form1.resources
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea6-Métodos ReplaceAttributesy RemoveAll\Tarea6-MetReplaceAtyRemAll\Tarea6-MetReplaceAtyRemAll\obj\x86\Debug\Tarea6_MetReplaceAtyRemAll.Resources.resources
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea6-Métodos ReplaceAttributesy RemoveAll\Tarea6-MetReplaceAtyRemAll\Tarea6-MetReplaceAtyRemAll\obj\x86\Debug\Tarea6-MetReplaceAtyRemAll.vbproj.GenerateResource.Cache
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea6-Métodos ReplaceAttributesy RemoveAll\Tarea6-MetReplaceAtyRemAll\Tarea6-MetReplaceAtyRemAll\obj\x86\Debug\Tarea6-MetReplaceAtyRemAll.exe
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea6-Métodos ReplaceAttributesy RemoveAll\Tarea6-MetReplaceAtyRemAll\Tarea6-MetReplaceAtyRemAll\obj\x86\Debug\Tarea6-MetReplaceAtyRemAll.xml
+F:\Esc\ACDA\Persistencia en ficheros\UT3-Herramientas de mapeo(Linq)\Tarea6-Métodos ReplaceAttributesy RemoveAll\Tarea6-MetReplaceAtyRemAll\Tarea6-MetReplaceAtyRemAll\obj\x86\Debug\Tarea6-MetReplaceAtyRemAll.pdb
