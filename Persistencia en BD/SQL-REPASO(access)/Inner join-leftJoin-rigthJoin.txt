@@ -1,8 +1,0 @@
-Diferencias entre JOIN, LEFT JOIN y RIGHT JOIN
-https://www.imaginanet.com/blog/diferencias-entre-join-left-join-y-right-join.html
-
-Por ejemplo, podría usar LEFT JOIN con las tablas Departamentos (izquierda) 
-y Empleados (derecha) para seleccionar todos los departamentos, 
-incluidos los que no tengan empleados asignados. Para seleccionar 
-todos los empleados, incluidos los que no estén asignados a 
-ningún departamento, utilizaría RIGHT JOIN.
