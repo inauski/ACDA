@@ -1,0 +1,14 @@
+https://technet.microsoft.com/es-es/library/ms184262(v=sql.105).aspx (Having)
+
+Leer esto antes del link de arriba 
+
+FUNCIONES DE AGREGADO
+Las funciones de agregado realizan un cálculo sobre un conjunto de valores y devuelven un solo valor. Si exceptuamos la función COUNT, todas las funciones de agregado ignoran los valores NULL. Las funciones de agregado se suelen utilizar con 
+la cláusula GROUP BY de la instrucción SELECT.
+
+Las funciones de agregado solo se pueden utilizar como expresiones en:
+  -La lista de selección de una instrucción SELECT (una subconsulta o una consulta externa).
+  -Cláusula HAVING.
+SQL proporciona las siguientes funciones de agregado:
+AVG,MIN,CHECKSUM_AGG,SUM,COUNT,STDEV,COUNT_BIG,STDEVP,GROUPING,
+VAR,GROUPING_ID,VARP,MAX
